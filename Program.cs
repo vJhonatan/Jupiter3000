@@ -194,6 +194,7 @@ public class JUPITER
 
     static void FecharCaixa()
     {
+        Console.Write("-----------------------------");
         Console.Write("Digite sua senha: ");
         string senha_nova = Console.ReadLine();
 
